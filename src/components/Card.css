@@ -2,7 +2,6 @@
 .card {
     border: 1px solid #e0e0e0;
     border-radius: 15px;
-    background-color: black;
     overflow: hidden;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     margin: 16px;
@@ -24,7 +23,6 @@
   }
   
   .card-title {
-    color: white;
     font-size: 3em;
     text-align: left;
     margin: 0;
@@ -32,19 +30,16 @@
   
   .card-subtitle {
     font-size: 1em;
-    color:white;
     margin: 8px 0;
     text-align: left;
   }
   
   .card-available {
     font-size: 0.9em;
-    color: white;
   }
   
   .card-description {
     font-size: 0.9em;
-    color: white;
   }
   
   .card-cta {
